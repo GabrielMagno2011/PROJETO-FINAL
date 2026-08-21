@@ -3,8 +3,8 @@ Gabriel Magno de Oliveira Santos;
 Luíza Gomes Barbosa;
 Janyelle Maryanne De Souza Ferreira
 '''
-cardapio=["Arroz","Bife Assado","Frango Assado","Suco De Goiaba","Porco Assado"]
-valor=[1.99,12.99,23.99,0.99,45.99]
+cardapio=[]
+valor=[]
 mesasabertas=[]
 
 titulo="SABOR DA ORLA"
